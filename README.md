@@ -61,3 +61,7 @@ IN1和IN2：蜂鸣器输入信号
 INHOUR：整点时输出高电平
 
 ALM：到达设定的时间时输出高电平
+
+### 使用说明
+
+使用Quartus打开DigitalClock.qpf文件
