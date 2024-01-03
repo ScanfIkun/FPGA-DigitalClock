@@ -64,6 +64,6 @@ ALM：到达设定的时间时输出高电平
 
 ### 使用说明
 
-使用Quartus打开DigitalClock.qpf文件
+用Quartus打开DigitalClock.qpf文件，参考下图分配管脚，然后烧写即可
 
 ![image](管脚方案参考图.png)
